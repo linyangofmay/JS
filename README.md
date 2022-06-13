@@ -1,1 +1,1 @@
-# appacademypractice
+# JS
